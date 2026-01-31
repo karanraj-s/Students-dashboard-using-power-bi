@@ -60,4 +60,4 @@ The dataset includes:
 - Automates reporting and reduces manual effort  
 
 ## 📸 Dashboard Preview
-_Add dashboard screenshots here_
+https://github.com/karanraj-s/Students-dashboard-using-power-bi/blob/main/students%20dashboard.png
