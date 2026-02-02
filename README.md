@@ -1,22 +1,22 @@
-# 📊 Student Analytics Dashboard (Power BI)
+#  Student Analytics Dashboard (Power BI)
 
-## 📌 Overview
+##  Overview
 The **Student Analytics Dashboard** is an interactive Power BI project developed to analyze student enrollment, revenue performance, certification issuance, and demographic trends across multiple courses and locations.  
 This dashboard helps education institutes and training centers make **data-driven decisions** by presenting key insights in a clear and intuitive format.
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Track total revenue and student enrollment  
 - Identify high-performing courses  
 - Monitor issued certificates  
 - Analyze student demographics by age group  
 - Understand monthly enrollment trends  
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Power BI Desktop** – Data modeling, visualization, and dashboard creation  
 - **DAX (Data Analysis Expressions)** – Measures, KPIs, and calculated fields  
 - **Microsoft Excel / CSV** – Data storage and preprocessing  
 
-## 📂 Data Source
+##  Data Source
 The dataset includes:
 - Student enrollment records  
 - Course fee and payment details  
@@ -24,7 +24,7 @@ The dataset includes:
 - Student demographic information (age group, city)  
 - Time-based data (month, year)  
 
-## 📈 Dashboard Features
+##  Dashboard Features
 - **KPI Cards**
   - Total Amount Collected  
   - Total Number of Students  
@@ -46,19 +46,19 @@ The dataset includes:
   - City  
   - Course  
 
-## 🔍 Key Insights
+##  Key Insights
 - Identifies **top revenue-generating courses**  
 - Reveals **seasonal enrollment patterns**  
 - Tracks **certificate completion rate**  
 - Highlights **age-group participation trends**  
 - Enables flexible and interactive data exploration  
 
-## 💡 Business Value
+##  Business Value
 - Supports strategic planning and course optimization  
 - Improves revenue monitoring and forecasting  
 - Enhances visibility into student behavior  
 - Automates reporting and reduces manual effort  
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard Preview](https://github.com/karanraj-s/Students-dashboard-using-power-bi/blob/main/students%20dashboard.png)
