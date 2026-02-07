@@ -18,7 +18,7 @@ This dashboard helps education institutes and training centers make **data-drive
 
 ##  Data Source
 The dataset includes:
-- Student enrollment records  
+- Student enrollment records 
 - Course fee and payment details  
 - Certificate issuance data  
 - Student demographic information (age group, city)  
